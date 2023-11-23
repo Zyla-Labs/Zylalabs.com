@@ -28,7 +28,8 @@
 - [Math APIs](https://zylalabs.com/api-marketplace/math)
 - [Data APIs](https://zylalabs.com/api-marketplace/data)
 - [IP & Domain APIs](https://zylalabs.com/api-marketplace/ip+%26+domain)
-- and More...
+- [and More...](https://zylalabs.com/api-marketplace)
+
 
 ## By subscribing to the Hub, you can enjoy 😊:
 
