@@ -10,7 +10,7 @@
 
 ## 🌟 Available Categories:
 
-- Popular APIs,
+- [Popular APIs](https://zylalabs.com/api-marketplace/popular).
 - Weather APIs,
 - Sports APIs,
 - SMS APIs,
